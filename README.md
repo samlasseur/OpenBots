@@ -1,5 +1,5 @@
 # OpenBots
-This repo is a simple implementation of RL algorithms in a PyBullet environment using PyTorch to train robots to perform various exercises.
+This repo is an unfinished simple implementation of RL algorithms in a PyBullet environment using PyTorch to train robots to perform various exercises.
 For ```football.py``` to run, you will need to install the following pip packages:
 ```
 pip install torch
